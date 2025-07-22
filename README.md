@@ -1,0 +1,2 @@
+# verilog_combinational
+Basic_combinational_verilog_codes_and_linear_test_benches
